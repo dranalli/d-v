@@ -1,3 +1,2 @@
-# dav
-##### don't add verbosity
-#### Clear, clean, concise, obvious code.
+# obvious
+#### Clear, clean, concise and obvious code.
